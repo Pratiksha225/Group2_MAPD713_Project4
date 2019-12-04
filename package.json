@@ -1,0 +1,19 @@
+{
+    "name": "healthcare-api",
+    "version": "1.1.0",
+    "description": "REST API - Patients",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "chai-http": "^4.3.0",
+        "mocha": "^6.2.2",
+        "restify": "^4.3.4",
+        "restify-plugins": "^1.6.0",
+        "save": "^2.4.0"
+    },
+    "author": "Pratiksha and Dipal",
+    "private": true,
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
